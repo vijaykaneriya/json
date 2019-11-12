@@ -1,11 +1,17 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+[
+    {
+      "id": 1,
+      "username": "Vijay",
+      "password": "Vijay"
+    },
+    {
+        "id": 2,
+        "username": "Vijay",
+        "password": "Vijay"
+    },
+    {
+      "id": 3,
+      "username": "Vijay",
+      "password": "Vijay"
     }
-  }
+  ]
